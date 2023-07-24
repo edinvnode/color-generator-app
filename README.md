@@ -1,2 +1,3 @@
-# color-generator-app
-An application that generates color pallet based on entered hex value of color. 
+#### Values JS
+
+[values.js](https://github.com/noeldelgado/values.js)
